@@ -43,9 +43,8 @@ function Index() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Vercel
-        </a>
-        !
+          Now.sh
+        </a>.
       </p>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
