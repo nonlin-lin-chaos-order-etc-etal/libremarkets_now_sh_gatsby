@@ -15,39 +15,37 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>Gatsby + Node.js (TypeScript) API</title>
+        <title>libremarkets.now.sh</title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
-      <h2>
+      <h1>libremarkets.now.sh</h1>
+      <h2>category: software</h2>
+      <p><ol>
+        <li><a href="https://github.com/libremarkets" target="_blank" rel="noopener" rel="noreferer">https://github.com/libremarkets</a> a mirror;</li>
+        <li><a href="https://gitlab.com/libremarkets" target="_blank" rel="noopener" rel="noreferer">https://gitlab.com/libremarkets</a> a mirror;</li>
+        <li><a href="https://bitbucket.org/libremarkets" target="_blank" rel="noopener" rel="noreferer">https://bitbucket.org/libremarkets</a> a mirror.</li>
+      </ol></p>
+
+      <p>project status: inception, work in progress</p>
+
+      <p><ol>
+        <li>pending: a federated markets browser platform application with cryptocurrencies trading and exchanges &mdash; an android app with an <a href="https://i2pd.website/" target="_blank" rel="noopener" rel="noreferer">i2pd crystal</a> inside;</li>
+        <li>pending: the same in <a href="https://flutter.dev/">flutter</a>, when the flutter's C++ DLL exceptions bug will be fixed;</li>
+        <li>pending: the same in <a href="https://libreprismatronics.now.sh/">https://libreprismatronics.now.sh/</a> and programming language "any" with content-type "any/any" based on nixos, a Gaudi-like bioorganic future pioneering meta-technology for clouds and software.</li>
+      </ol></p>
+
+      <p>welcome and stay tuned!</p>
+
+      <hr noshade/>
+      <p>
         Deployed with{' '}
         <a
           href="https://vercel.com/docs"
           target="_blank"
           rel="noreferrer noopener"
         >
-          Vercel
-        </a>
-        !
-      </h2>
-      <p>
-        <a
-          href="https://github.com/vercel/vercel/tree/main/examples/gatsby"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          This project
-        </a>{' '}
-        is a <a href="https://www.gatsbyjs.org/">Gatsby</a> app with two
-        directories, <code>/src</code> for static content and <code>/api</code>{' '}
-        which contains a serverless{' '}
-        <a href="https://nodejs.org/en/">Node.js (TypeScript)</a> function. See{' '}
-        <a href="/api/date">
-          <code>api/date</code> for the Date API with Node.js (TypeScript)
-        </a>
-        .
+          Now.sh
+        </a>.
       </p>
-      <br />
-      <h2>The date according to Node.js (TypeScript) is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
