@@ -31,7 +31,7 @@ function Index() {
         <li>pending: a federated markets browser platform application with cryptocurrencies trading and exchanges &mdash; an android app with an <a href="https://i2pd.website/" target="_blank" rel="noopener" rel="noreferer">i2pd crystal</a> inside;</li>
         <li>maybe pending: the same in <a href="https://flutter.dev/">flutter</a>, when the flutter's C++ DLL exceptions bug will be fixed;</li>
         <li>maybe pending: the same in <a href="https://libreprismatronics.now.sh/">https://libreprismatronics.now.sh/</a> and programming language "any" with content-type "any/any" based on nixos, a Gaudi-like bioorganic future pioneering meta-technology for clouds and software.</li>
-        <li>pending: <a href="https://github.com/mathlangorg">mathlang</a> &mdash mathematic programming language.</li>
+        <li>pending: <a href="https://github.com/mathlangorg">mathlang</a> &mdash; mathematic programming language.</li>
       </ol></p>
 
       <p>welcome and stay tuned!</p>
