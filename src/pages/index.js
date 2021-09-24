@@ -48,7 +48,14 @@ function Index() {
       </p>
       <p>{date ? date : 'Loading date...'}</p>
 
-      <p>Brought to you by <a href="https://allstarspioneer.now.sh/">https://allstarspioneer.now.sh/</a>.</p>
+      <p>
+        Brought to you by{' '}
+        <a
+          href="https://allstarspioneer.now.sh/"
+          target="_blank"
+          rel="noreferrer noopener"
+        > https://allstarspioneer.now.sh/ </a>.
+      </p>
     </main>
   );
 }
