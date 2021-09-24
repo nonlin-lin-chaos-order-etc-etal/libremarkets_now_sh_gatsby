@@ -35,7 +35,7 @@ function Index() {
 
       <p>welcome and stay tuned!</p>
 
-      <hr noshade>
+      <hr noshade/>
       <p>
         Deployed with{' '}
         <a
