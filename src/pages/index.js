@@ -20,9 +20,9 @@ function Index() {
       <h1>libremarkets.now.sh</h1>
       <h2>category: software</h2>
       <p><ol>
-        <li><a href="https://github.com/libremarkets" target="_blank" rel="noopener" rel="noreferer">https://github.com/libremarkets</a> a mirror;</li>
-        <li><a href="https://gitlab.com/libremarkets" target="_blank" rel="noopener" rel="noreferer">https://gitlab.com/libremarkets</a> a mirror;</li>
-        <li><a href="https://bitbucket.org/libremarkets" target="_blank" rel="noopener" rel="noreferer">https://bitbucket.org/libremarkets</a> a mirror.</li>
+        <li><a href="https://github.com/libremarkets" target="_blank" rel="noopener noreferrer">https://github.com/libremarkets</a> a mirror;</li>
+        <li><a href="https://gitlab.com/libremarkets" target="_blank" rel="noopener noreferrer">https://gitlab.com/libremarkets</a> a mirror;</li>
+        <li><a href="https://bitbucket.org/libremarkets" target="_blank" rel="noopener noreferrer">https://bitbucket.org/libremarkets</a> a mirror.</li>
       </ol></p>
 
       <p>project status: inception, work in progress</p>
@@ -48,9 +48,7 @@ function Index() {
       </p>
       <p>{date ? date : 'Loading date...'}</p>
 
-      <p>
-            Brought to you by <a href="https://allstarspioneer.now.sh/" rel="noopener" rel="noreferer" target="_blank">https://allstarspioneer.now.sh/</a>.
-      </p>
+      <p>Brought to you by <a href="https://allstarspioneer.now.sh/" rel="noopener noreferrer" target="_blank">https://allstarspioneer.now.sh/</a>.</p>
     </main>
   );
 }
