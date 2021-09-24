@@ -10,7 +10,7 @@ main {
   max-width: 680px;
   min-height: 100vh;
   padding: 72px 0;
-  text-align: center;
+  text-align: left;
 }
 h1 {
   font-size: 45px;
