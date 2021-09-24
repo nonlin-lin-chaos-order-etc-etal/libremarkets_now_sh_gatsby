@@ -20,33 +20,26 @@ function Index() {
       <h1>libremarkets.now.sh</h1>
       <h2>category: software</h2>
       <p><ol>
-        <li><a href="https://github.com/libremarkets" target="_blank" rel="noopener" rel="noreferer">https://github.com/libremarkets</a> a mirror;</li>
-        <li><a href="https://gitlab.com/libremarkets" target="_blank" rel="noopener" rel="noreferer">https://gitlab.com/libremarkets</a> a mirror;</li>
-        <li><a href="https://bitbucket.org/libremarkets" target="_blank" rel="noopener" rel="noreferer">https://bitbucket.org/libremarkets</a> a mirror.</li>
+        <li><a href="https://github.com/libremarkets" target="_blank" rel="noopener noreferrer">https://github.com/libremarkets</a> a mirror;</li>
+        <li><a href="https://gitlab.com/libremarkets" target="_blank" rel="noopener noreferrer">https://gitlab.com/libremarkets</a> a mirror;</li>
+        <li><a href="https://bitbucket.org/libremarkets" target="_blank" rel="noopener noreferrer">https://bitbucket.org/libremarkets</a> a mirror.</li>
       </ol></p>
 
       <p>project status: inception, work in progress</p>
 
       <p><ol>
         <li>pending: a federated markets browser platform application with cryptocurrencies trading and exchanges &mdash; an android app with an <a href="https://i2pd.website/" target="_blank" rel="noopener" rel="noreferer">i2pd crystal</a> inside;</li>
-        <li>pending: the same in <a href="https://flutter.dev/">flutter</a>, when the flutter's C++ DLL exceptions bug will be fixed;</li>
-        <li>pending: the same in <a href="https://libreprismatronics.now.sh/">https://libreprismatronics.now.sh/</a> and programming language "any" with content-type "any/any" based on nixos, a Gaudi-like bioorganic future pioneering meta-technology for clouds and software.</li>
+        <li>maybe pending: the same in <a href="https://flutter.dev/">flutter</a>, when the flutter's C++ DLL exceptions bug will be fixed;</li>
+        <li>maybe pending: the same in <a href="https://libreprismatronics.now.sh/">https://libreprismatronics.now.sh/</a> and programming language "any" with content-type "any/any" based on nixos, a Gaudi-like bioorganic future pioneering meta-technology for clouds and software.</li>
+        <li>pending: <a href="https://github.com/mathlangorg">mathlang</a> &mdash; a mathematically strict programming language for the industry.</li>
       </ol></p>
 
       <p>welcome and stay tuned!</p>
 
       <hr noshade/>
-      <p>
-        Deployed with{' '}
-        <a
-          href="https://vercel.com/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          Now.sh
-        </a>.
-      </p>
+      <p>Deployed with{' '}<a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">Now.sh</a>.</p>
       <p>{date ? date : 'Loading date...'}</p>
+      <p>Brought to you by https://allstarspioneer.now.sh/.</p>
     </main>
   );
 }
